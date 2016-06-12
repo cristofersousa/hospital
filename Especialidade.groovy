@@ -1,7 +1,7 @@
 public class Especialidade{
 
   private String nome
-  Collection <Medico> medico
+  Collection <Medico> medicos
 
   public Double Faturamento(){
     return faturamento
