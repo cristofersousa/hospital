@@ -6,6 +6,6 @@ public class Mae{
   private String endereco
   private String telefone
   private Date dataNascimento
-  List <Bebe> bebes
+  Collection <Bebe> bebes
 
 }

@@ -7,5 +7,6 @@ public class Bebe{
   private Double peso
   private Double altura
   Mae mae
+  Parto parto
 
 }

@@ -2,7 +2,7 @@ public class Hospital {
 
   /// referencia unidades ///
 
-  List <Unidade> unidades
+  Collection <Unidade> unidades
   private String nome
 
   public Double faturamento(){

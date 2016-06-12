@@ -7,6 +7,7 @@ public class Medico{
   private String celular
   private Double valorHora
   Especialidade especialidade
-  Unidade unidades
+  Unidade unidade
+  Collection <Alocacao> alocacao 
 
 }
