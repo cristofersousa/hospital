@@ -1,6 +1,6 @@
 public class Unidade{
 
-  // referencia hospital e medico 
+ /// referencia hospital e médico ///
 
   private Long codigo
   private String nome
